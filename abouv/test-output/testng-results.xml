@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-26T21:32:11 IST" name="Default suite" finished-at="2024-09-26T21:32:45 IST" duration-ms="33959">
+    <groups>
+    </groups>
+    <test started-at="2024-09-26T21:32:11 IST" name="Default test" finished-at="2024-09-26T21:32:45 IST" duration-ms="33959">
+      <class name="com.abouv.Welcome">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.abouv.Welcome@51e69659]" started-at="2024-09-26T21:32:11 IST" name="setUp" finished-at="2024-09-26T21:32:14 IST" duration-ms="3227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signUp()[pri:1, instance:com.abouv.Welcome@51e69659]" started-at="2024-09-26T21:32:14 IST" name="signUp" finished-at="2024-09-26T21:32:15 IST" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method signature="clickSkip()[pri:2, instance:com.abouv.Welcome@51e69659]" started-at="2024-09-26T21:32:15 IST" name="clickSkip" finished-at="2024-09-26T21:32:16 IST" duration-ms="577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSkip -->
+        <test-method signature="signUpUsingMobile()[pri:3, instance:com.abouv.Welcome@51e69659]" started-at="2024-09-26T21:32:16 IST" name="signUpUsingMobile" finished-at="2024-09-26T21:32:16 IST" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpUsingMobile -->
+        <test-method signature="enterOtpManually()[pri:4, instance:com.abouv.Welcome@51e69659]" started-at="2024-09-26T21:32:16 IST" name="enterOtpManually" finished-at="2024-09-26T21:32:44 IST" duration-ms="28266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterOtpManually -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.abouv.Welcome@51e69659]" started-at="2024-09-26T21:32:44 IST" name="tearDown" finished-at="2024-09-26T21:32:45 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.abouv.Welcome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
